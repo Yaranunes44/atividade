@@ -1,0 +1,5 @@
+LISTA DE FRUTAS
+
+'banana'
+'morango'
+'laranja'
